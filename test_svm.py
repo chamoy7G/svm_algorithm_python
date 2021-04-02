@@ -42,5 +42,6 @@ def visualize_svm():
      ax.set_ylim([x1_min-3,x1_max+3])
 
      plt.show()
+print(X)
 
 visualize_svm()
